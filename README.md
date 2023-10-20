@@ -1,14 +1,10 @@
 
+<h1>Programmer's Lair | VL4STEL1N </h1>
 
-<h1 align = center>-WelcomE-</h1>
-
-![Frame 3](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/00b285a7-7f88-476d-92f7-4ef78bbccb44)
-
-<h1 align = center>VL4STEL1N | Ivan Stambolidis</h1>
+Useful links: <br>
+  <br> Galxe - <a href = "https://galxe.com/galxeid/0x81be437139e7298b7969c9f6f96363dd912f245d">Link on Galxe </a>
 
 
-
-![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4) ![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4) ![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4) ![1490](https://github.com/VL4STEL1N/VL4STEL1N/assets/127986242/46b33866-3d33-49c4-8ecb-0b723842b7a4)
 
 ![C++ ](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=6296CC)
