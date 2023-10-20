@@ -3,8 +3,10 @@
 
 Useful links: <br>
   <br> Galxe - <a href = "https://galxe.com/galxeid/0x81be437139e7298b7969c9f6f96363dd912f245d">Link on Galxe </a>
+  <br> Rarible - <a href = "https://rarible.com/user/0xa219ef765836471f861779ada0a932c466ac5d47/owned">Link on Rarible</a>
 
-
+Referral link: <br>
+ <br> ByBit - <a href = "https://www.bybit.com/invite?ref=ZA9KEV">Link on Rarible</a>
 
 ![C++ ](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=6296CC)
