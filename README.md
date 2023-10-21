@@ -12,7 +12,7 @@ Raddit - <a href = "https://www.reddit.com/u/N-E-Z-Z-I/s/GnZ9usGEdl">Link on Rad
   
   
 <br>
-<h3>Referral link: </h3>
+<h3>:chart_with_upwards_trend: Referral link: </h3>
 ByBit - <a href = "https://www.bybit.com/invite?ref=ZA9KEV">Link on Rarible</a>
  
 ---
