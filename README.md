@@ -1,7 +1,20 @@
 
 <h1 align = center>Programmer with his sauce 🤌 | 𝙎𝙩𝙖𝙢𝙗𝙤𝙡𝙞𝙙𝙞 𝙄𝙫𝙖𝙣 ⌨ </h1>
 
-<p align="center">Welcome to this profile. The best and strongest programmers from the IT world gather hereThe programmer with his sauce. Favorites in their field: Rust, C++, Web . Short, clear and without any unnecessary water.</p>
+![C++ ](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=fc5812)
+![C++](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML5&logoColor=fc2d12)
+![C++](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css3&logoColor=2512fc)
+![C++](https://img.shields.io/badge/-Js-090909?style=for-the-badge&logo=JavaScript&logoColor=fce512)
+![C++](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=ffff)
+![C++](https://img.shields.io/badge/-Vim-090909?style=for-the-badge&logo=Vim&logoColor=37bf3c)
+![C++](https://img.shields.io/badge/-Neovim-090909?style=for-the-badge&logo=Neovim&logoColor=326634)
+<hr>
+<h3>About Me 👇 </h3>
+Age - 18 years old; <br>
+A country - Russia; 
+
+
 <br>
 <h3>:speech_balloon:Useful links: </h3> 
 Galxe - <a href = "https://galxe.com/galxeid/0x81be437139e7298b7969c9f6f96363dd912f245d" >Link on Galxe</a> <br>
