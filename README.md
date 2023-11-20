@@ -1,5 +1,5 @@
 
-<h1 align = center>Programmer's Lair | Stambolidi Ivan</h1>
+<h1 align = center>Programmer with his sauce 🤌 | 𝙎𝙩𝙖𝙢𝙗𝙤𝙡𝙞𝙙𝙞 𝙄𝙫𝙖𝙣 ⌨ </h1>
 
 <p align="center">Welcome to this profile. The best and strongest programmers from the IT world gather hereThe programmer with his sauce. Favorites in their field: Rust, C++, Web . Short, clear and without any unnecessary water.</p>
 <br>
