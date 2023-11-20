@@ -2,14 +2,18 @@
 <h1 align = center>Programmer with his sauce 🤌 | 𝙎𝙩𝙖𝙢𝙗𝙤𝙡𝙞𝙙𝙞 𝙄𝙫𝙖𝙣 ⌨ </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=028D11&multiline=true&random=false&width=1400&height=150&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+%D0%BD%D0%B0+GitHub!;%D0%AF+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB+%D1%8D%D1%82%D0%BE+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%2C+%D1%87%D1%82%D0%BE%D0%B1%D1%8B+%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C%D1%81%D1%8F+%D1%81%D0%B2%D0%BE%D0%B5%D0%B9+%D1%81%D1%82%D1%80%D0%B0%D1%81%D1%82%D1%8C%D1%8E+%D0%BA+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E+%3E%3E;%D0%B8+%D0%BF%D1%80%D0%BE%D0%B4%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D1%81%D0%B2%D0%BE%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.;%D0%9D%D0%B5+%D1%81%D1%82%D0%B5%D1%81%D0%BD%D1%8F%D0%B9%D1%82%D0%B5%D1%81%D1%8C+%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B8+%D1%81%D0%B2%D1%8F%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%D1%81%D0%BE+%D0%BC%D0%BD%D0%BE%D0%B9+%D0%BF%D0%BE+%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83+%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE+%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0" alt="Typing SVG" /></a>
-
-<h3>Technologies ⚙️</h3>
+<h3> Technologies ⚙️</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <h3>Development systems ⛏ </h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+
+<h3> 📚 Frameworks </h3>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <hr>
 <h3>About Me 👇 </h3>
