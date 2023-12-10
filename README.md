@@ -1,7 +1,7 @@
 
 <h1 align = center>Programmer with his sauce 🤌 | 𝙎𝙩𝙖𝙢𝙗𝙤𝙡𝙞𝙙𝙞 𝙄𝙫𝙖𝙣 ⌨ </h1>
 
-<div align = left>
+<div align = center>
   
 <a href= "https://www.flaticon.com/ru/free-icon/twitter_3256013?related_id=3256013" >![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> <a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCXBJvrwzbmQvRjhJgQLTsVrcWLPxbXTCnvRcdQWsCpMgdCjZknhdbfcVjTpNmJKTKVzKZv">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href = "https://t.me/Prokaznikblack">	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 </div>
