@@ -1,5 +1,5 @@
-# Stambolidi Ivan :zzz:
-<p>Front :fire: end Developer</p> <br>
+# STAMLY - Ivan / <p>Front :fire: end Developer</p>
+
 
 <p>Development Tools: </p>
 
