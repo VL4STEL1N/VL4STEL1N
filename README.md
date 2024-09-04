@@ -1,4 +1,4 @@
-# STAMLY - Ivan / <p>Front :fire: end Developer</p>
+# STAMLY - Ivan <p>Front :fire: end Developer</p>
 
 
 <p>Development Tools: </p>
